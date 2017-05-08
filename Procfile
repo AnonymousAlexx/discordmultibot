@@ -1,1 +1,1 @@
-web: python run.bat
+web: python run.py
