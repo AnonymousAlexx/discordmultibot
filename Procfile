@@ -1,1 +1,1 @@
-web: windows run.bat
+web: gunicorn run.bat
