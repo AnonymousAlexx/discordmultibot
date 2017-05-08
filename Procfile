@@ -1,1 +1,1 @@
-web: gunicorn run.bat
+web: python run.py
