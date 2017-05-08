@@ -172,7 +172,7 @@ class ConfigDefaults:
     token = None    #
 
     owner_id = None
-    command_prefix = '!'
+    command_prefix = 'm#'
     bound_channels = set()
     autojoin_channels = set()
 
