@@ -1,1 +1,1 @@
-worker: python start_red_autorestart.bat
+web: python start_red_autorestart.bat
